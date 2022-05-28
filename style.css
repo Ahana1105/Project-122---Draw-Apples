@@ -1,0 +1,20 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px 5px palevioletred;
+}
+
+h4 {
+	font-size: 35px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
